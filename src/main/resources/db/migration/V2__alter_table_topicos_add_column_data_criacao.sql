@@ -1,1 +1,0 @@
-ALTER TABLE topicos ADD COLUMN data_criacao datetime not null default current_timestamp;
